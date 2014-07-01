@@ -2,7 +2,7 @@
 
 @section('main')
 
-<h1>Show Task</h1>
+<h1>Current Task</h1>
 
 <p>{{ link_to_route('tasks.index', 'Return to all tasks') }}</p>
 
